@@ -1,0 +1,18 @@
+- [How to get the feedback you need](https://hbr.org/2015/05/how-to-get-the-feedback-you-need)
+- [Awkward 1:1s: How to get honest feedback](https://medium.com/@mrabkin/awkward-1-1s-the-art-of-getting-honest-feedback-2843078b2880)
+-
+- Options for giving feedback:
+	- Ask permission
+	- Offer a main takeaway
+	- Must be:
+		- Clear
+		- Actionable
+		- Compassionate
+		- Honest
+	- "I feel..." not "You are..."
+	- **Positive** and **Constructive** feedback
+- Reciving Feedback:
+	- Eye contact
+	- Avoid contesting specifics
+	- Listen for patterns
+		- It may just be a bad dynamic

@@ -1,0 +1,10 @@
+- #+BEGIN_WARNING
+  Don't simply assume you know the problem
+  #+END_WARNING
+- Don't necessarily look at your code first
+	- Try to understand the error message
+	- Red text good
+-
+- Hoisting errors are quirky...
+-
+- Understand that all of this is a suggestion for when you don't know what went wrong

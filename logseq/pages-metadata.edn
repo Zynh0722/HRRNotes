@@ -1,0 +1,123 @@
+[{:block/name "621557a4-30f5-48a3-9276-05301acfeba2",
+  :block/created-at 1645639128075,
+  :block/updated-at 1645639128075}
+ {:block/name "6216783a-8b6d-4948-9097-c6c9541d96ba",
+  :block/created-at 1646174592907,
+  :block/updated-at 1646174592907}
+ {:block/name "a",
+  :block/created-at 1645639128075,
+  :block/updated-at 1645639128075}
+ {:block/name "arrays",
+  :block/created-at 1645810820129,
+  :block/updated-at 1645811915771}
+ {:block/name "b",
+  :block/created-at 1645639128075,
+  :block/updated-at 1645639128075}
+ {:block/name "c",
+  :block/created-at 1645639128075,
+  :block/updated-at 1645639128075}
+ {:block/name "card",
+  :block/created-at 1645639128075,
+  :block/updated-at 1645639128075}
+ {:block/name "common data structures",
+  :block/created-at 1645810701731,
+  :block/updated-at 1645824739537}
+ {:block/name "complexity analysis",
+  :block/created-at 1646174592907,
+  :block/updated-at 1646174592907}
+ {:block/name "contents",
+  :block/created-at 1645639128075,
+  :block/updated-at 1645639128075}
+ {:block/name "data structures",
+  :block/created-at 1646174592907,
+  :block/updated-at 1646174592907}
+ {:block/name "days off",
+  :block/created-at 1645639128075,
+  :block/updated-at 1645639128075}
+ {:block/name "debugging tips",
+  :block/created-at 1645638481179,
+  :block/updated-at 1645638868928}
+ {:block/name "doing",
+  :block/created-at 1645639128075,
+  :block/updated-at 1645639128075}
+ {:block/name "done",
+  :block/created-at 1645639128075,
+  :block/updated-at 1645639128075}
+ {:block/name "favorites",
+  :block/created-at 1645639128075,
+  :block/updated-at 1645639128075}
+ {:block/name "feb 22nd, 2022",
+  :block/created-at 1645488000000,
+  :block/updated-at 1645488000000}
+ {:block/name "feb 23rd, 2022",
+  :block/created-at 1645637961449,
+  :block/updated-at 1645638460662}
+ {:block/name "feb 24th, 2022",
+  :block/created-at 1645660800000,
+  :block/updated-at 1645660800000}
+ {:block/name "feb 25th, 2022",
+  :block/created-at 1645810602923,
+  :block/updated-at 1645810613098}
+ {:block/name "feb 28th, 2022",
+  :block/created-at 1646006400000,
+  :block/updated-at 1646006400000}
+ {:block/name "feedback",
+  :block/created-at 1645639128075,
+  :block/updated-at 1645639128075}
+ {:block/name "function binding",
+  :block/created-at 1646165218411,
+  :block/updated-at 1646165546199}
+ {:block/name "goals of hackreactor",
+  :block/created-at 1645638028741,
+  :block/updated-at 1645638051691}
+ {:block/name "hash table",
+  :block/created-at 1646174592907,
+  :block/updated-at 1646174592907}
+ {:block/name "hoisting",
+  :block/created-at 1645639128075,
+  :block/updated-at 1645639128075}
+ {:block/name "how to succeed",
+  :block/created-at 1646174592907,
+  :block/updated-at 1646174592907}
+ {:block/name "in-progress",
+  :block/created-at 1645639128075,
+  :block/updated-at 1645639128075}
+ {:block/name "javascript concepts",
+  :block/created-at 1645638775310,
+  :block/updated-at 1646165184438}
+ {:block/name "later",
+  :block/created-at 1645639128075,
+  :block/updated-at 1645639128075}
+ {:block/name "linked lists",
+  :block/created-at 1645812118752,
+  :block/updated-at 1645813919147}
+ {:block/name "mar 1st, 2022",
+  :block/created-at 1646165169643,
+  :block/updated-at 1646165169643}
+ {:block/name "mocha stuff",
+  :block/created-at 1646174592907,
+  :block/updated-at 1646174592907}
+ {:block/name "now",
+  :block/created-at 1645639128075,
+  :block/updated-at 1645639128075}
+ {:block/name "success metrics",
+  :block/created-at 1645639128075,
+  :block/updated-at 1645639128075}
+ {:block/name "todo",
+  :block/created-at 1645639128075,
+  :block/updated-at 1645639128075}
+ {:block/name "trees",
+  :block/created-at 1645814233201,
+  :block/updated-at 1645814517781}
+ {:block/name "var let const",
+  :block/created-at 1645639128075,
+  :block/updated-at 1645639128075}
+ {:block/name "variable hoisting",
+  :block/created-at 1645639022032,
+  :block/updated-at 1645639070726}
+ {:block/name "wait",
+  :block/created-at 1645639128075,
+  :block/updated-at 1645639128075}
+ {:block/name "waiting",
+  :block/created-at 1645639128075, 
+  :block/updated-at 1645639128075}]

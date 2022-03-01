@@ -1,0 +1,2 @@
+- W6D6 - Saturday after solo week
+- W12D6 - Saturday after graduation

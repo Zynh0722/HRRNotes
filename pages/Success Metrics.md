@@ -1,0 +1,11 @@
+- ### W1D1 goals:
+	- Continuing on to the senior portion
+	- alumni status
+	- What might get in the way
+- ### 4 Pillars
+  id:: 621557a4-30f5-48a3-9276-05301acfeba2
+	- Technical Skills
+	- Professionalism and interpersonal skills
+	- Communication Skill
+	- Self-Management & Accountability
+- {{embed [[How to Succeed]]}}

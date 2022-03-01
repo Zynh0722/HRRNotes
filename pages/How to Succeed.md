@@ -1,0 +1,16 @@
+- ### Asking good questions
+- A question is after <ins>after</ins> you're all out of your own ideas to proceed
+- <ins>Batch up questions</ins> on a notepad
+- Before asking:
+	- Refactor the question completely
+	- Google & StackOverflow
+	- Bottom out on ((6216d2d3-d5a8-4afe-979d-461c369d2942)) system
+- Cop outs:
+	- "I can't"
+	- "I don't get"
+- Be friendly and fun to talk to
+- ​ <u>No pronouns</u> use the most precise words you have
+-
+- Understand that bug hunting is omnipresent
+	- You'll get faster, make it a game.
+-

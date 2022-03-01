@@ -1,0 +1,9 @@
+- Data modeling
+	- The "Shape of the data"
+	- A model of real life data stored in computer memory
+-
+- Process modeling
+	- A representation of a real life process
+	- Ex. Tallying up the bill for a hotel
+-
+- {{embed [[Common Data Structures]]}}
